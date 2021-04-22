@@ -25,7 +25,7 @@ SECRET_KEY = '9nb4!%=dmwn&s2zl3ar@ah&+=5mrmkxbh1&8!4sqd-8u*dfq6w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','sentiment-analysis-with-bot.herokuapp.com']
 
 
 # Application definition
